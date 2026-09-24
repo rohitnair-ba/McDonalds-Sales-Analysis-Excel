@@ -1,9 +1,6 @@
 # 🍔 McDonald's Sales Analysis | Excel Business Analyst Project
 
 ## 📌 Project Overview
-
-## 📊 Dashboard Preview
-
 ![McDonald's Sales Dashboard](dashboard-preview.png)
 
 This project analyzes McDonald's sales and order-detail data to uncover patterns in:
@@ -118,6 +115,9 @@ Interactive dashboard containing:
 10. 🏆 What are the top 5 menu items by revenue?
 
 ---
+## 📊 Dashboard Preview
+
+![McDonald's Sales Dashboard](McDonalds-Sales-Dashboard.png)
 
 ## 📊 Dashboard KPIs
 
