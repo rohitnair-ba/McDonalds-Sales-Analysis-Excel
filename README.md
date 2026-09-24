@@ -1,4 +1,4 @@
-# 🍔 McDonald's Sales Analysis | Excel Business Analyst Project
+# 🍔 McDonald's Sales Analysis | Excel Project
 
 ## 📌 Project Overview
 ![McDonald's Sales Dashboard](dashboard-preview.png)
